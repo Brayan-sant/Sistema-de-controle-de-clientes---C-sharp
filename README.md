@@ -15,7 +15,8 @@ Desenvolvido sistema para controle de tratamento para diferentes tipos de client
 ## Conceitos de POO empregados:
 - Polimorfismo
 - Herança
-  
+---
+
 ## 📦️ Como rodar o projeto
 Clone o projeto com o comando abaixo:
 ```bash
