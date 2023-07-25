@@ -1,0 +1,15 @@
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\bin\Debug\net7.0\Atividade.exe
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\bin\Debug\net7.0\Atividade.deps.json
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\bin\Debug\net7.0\Atividade.dll
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\bin\Debug\net7.0\Atividade.pdb
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.dll
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\refint\Atividade.dll
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.pdb
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+D:\Favorites\Desktop\Senai - FullStack\7- Codificação backend\C#-projetos\Atividade_SENAI\atividade\obj\Debug\net7.0\ref\Atividade.dll
