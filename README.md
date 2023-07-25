@@ -12,3 +12,6 @@ Desenvolvido sistema para controle de tratamento para diferentes tipos de client
 ### Editor
 - [Visual Studio Code](https://code.visualstudio.com/)
 ---
+## Conceitos de POO empregados:
+- Polimorfismo
+- Herança
