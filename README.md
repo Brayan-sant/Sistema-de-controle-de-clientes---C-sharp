@@ -19,10 +19,10 @@ Desenvolvido sistema para controle de tratamento para diferentes tipos de client
 ## 📦️ Como rodar o projeto
 Clone o projeto com o comando abaixo:
 ```bash
-  # Clone o repositório
+# Clone o repositório
   ❯ git clone https://github.com/[usuario]/[nome-projeto].git
-	# Entre no diretório
+# Entre no diretório
   ❯ cd [nome-projeto]
-	# Execute o projeto
+# Execute o projeto
   ❯ dotnet run
 ```
