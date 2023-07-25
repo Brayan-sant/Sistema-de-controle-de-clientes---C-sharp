@@ -21,9 +21,9 @@ Desenvolvido sistema para controle de tratamento para diferentes tipos de client
 Clone o projeto com o comando abaixo:
 ```bash
 # Clone o repositório
-  ❯ git clone https://github.com/[usuario]/[nome-projeto].git
+  ❯ git clone https://github.com/Brayan-sant/Sistema-de-controle-de-clientes---C-sharp.git
 # Entre no diretório
-  ❯ cd [nome-projeto]
+  ❯ cd Sistema-de-controle-de-clientes---C-sharp
 # Execute o projeto
   ❯ dotnet run
 ```
